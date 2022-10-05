@@ -1,5 +1,6 @@
 ## TEAM <number>
 ### Team editor
+Sergio Morell (UPValencia, Telecomm. Engineer and Biom.Eng. Msc)
 
 
 ### Team's members
